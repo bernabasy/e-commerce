@@ -78,7 +78,6 @@ To get a local copy up and running, follow these steps:
 To get a local copy up and running, follow these steps:
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - `https://github.com/bernabasy/Budget-app.git`
 - Run `Bundle install`
 - Run `npm install`
 - Create a .env file and add values for `POSTGRES_USERNAME and POSTGRES_PASSWORD`
