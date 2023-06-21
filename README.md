@@ -23,9 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Budget-app <a name="about-project"></a>
+# 📖 E-commerce-app <a name="about-project"></a>
 
-**Budget-app** is an application that One can create categories for all their transaction, view total cost of all categories, view the cost of one transaction.
+**E-commerce-app** is an application that One can create categories for all their transaction, view total cost of all categories, view the cost of one transaction.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,12 +52,12 @@
 </details>
 
 ### Live Link <a name="Live link"></a>
-The hosted app can be found [here](https://budget-app-rails-9xci.onrender.com)
+The hosted app can be found 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Loom Video <a name="Loom Video"></a>
-The loom video can be found [here](https://www.loom.com/share/93f3daa74936453c8893ff193c45a744)
+The loom video can be found
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- Features -->
@@ -66,8 +66,6 @@ The loom video can be found [here](https://www.loom.com/share/93f3daa74936453c88
 
 - **Login**
 - **Signup**
-- **Create category**
-- **Create transaction**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +99,7 @@ Clone this repository to your desired folder:
 
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - `git clone https://github.com/bernabasy/Budget-app.git`
+ 
 
 ### Usage
 
@@ -162,7 +160,7 @@ If you like this project kindly leave a ⭐
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the great resources shared. I would also like to thank [Gregoire Vella](https://www.behance.net/gregoirevella) for the wonderful design.
+I would like to thank Microverse for the great resources shared. I would also like to thank you for the wonderful design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
