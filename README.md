@@ -25,8 +25,7 @@
 
 # 📖 E-commerce-app <a name="about-project"></a>
 
-**E-commerce-app** is an application that One can create categories for all their transaction, view total cost of all categories, view the cost of one transaction.
-
+**E-commerce-app** is an application.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
